@@ -1,0 +1,501 @@
+region,price,year,manufacturer,model,condition,cylinders,fuel,odometer,title_status,transmission,vin,drive,size,type,paint_color,county,state,lat,long
+greensboro,10299,2012.0,acura,tl,,,gas,90186.0,clean,automatic,19UUA8F22CA003926,,,other,blue,,nc,35.7636,-78.7443
+greensboro,0,2011.0,bmw,335,,6 cylinders,gas,115120.0,clean,automatic,,rwd,,convertible,blue,,nc,,
+greensboro,9500,2011.0,jaguar,xf,excellent,,gas,85000.0,clean,automatic,,,,,blue,,nc,36.1032,-79.8794
+greensboro,3995,2004.0,honda,element,,,gas,212526.0,clean,automatic,5J6YH18314L006498,fwd,,SUV,orange,,nc,35.7636,-78.7443
+lincoln,41988,2016.0,chevrolet,silverado k2500hd,,,gas,,clean,automatic,1GC1KWE85GF266427,,,,,,ne,41.1345,-96.2458
+greensboro,12995,2015.0,kia,sportage,,,gas,85127.0,clean,automatic,KNDPCCAC2F7761967,4wd,,wagon,,,nc,35.7636,-78.7443
+greensboro,10995,2014.0,chevrolet,traverse,,,gas,112383.0,clean,automatic,1GNKRGKD2EJ157108,fwd,,SUV,black,,nc,35.7636,-78.7443
+greensboro,8995,2011.0,bmw,528i,,,gas,124446.0,clean,automatic,WBAFR1C52BC745716,,,sedan,silver,,nc,35.7636,-78.7443
+greensboro,3995,2007.0,toyota,solara,,,gas,185123.0,clean,automatic,4T1FA38P57U118005,fwd,compact,convertible,black,,nc,35.7636,-78.7443
+greensboro,8995,2005.0,toyota,tacoma,,,gas,181020.0,clean,automatic,5TETU62N65Z006686,,,other,black,,nc,35.7636,-78.7443
+greensboro,7995,2008.0,nissan,frontier,,,gas,162214.0,clean,automatic,1N6AD09U98C411189,fwd,,pickup,red,,nc,35.7636,-78.7443
+greensboro,11995,2014.0,volkswagen,beetle,,,gas,77118.0,clean,automatic,3VWVT7AT7EM630324,,compact,hatchback,black,,nc,35.7636,-78.7443
+greensboro,5495,2008.0,ford,edge,,,gas,139904.0,clean,automatic,2FMDK48C88BA69851,,,SUV,,,nc,35.7636,-78.7443
+denver,7995,2010.0,chevrolet,silverado 1500 4wd,excellent,8 cylinders,gas,194050.0,clean,automatic,1GCSKPE38AZ143970,4wd,full-size,truck,white,,co,39.8302,-105.037
+denver,8990,2016.0,ford,focus,,,gas,78877.0,clean,automatic,1FADP3KE2GL297598,,compact,hatchback,white,,co,39.5951,-104.845
+denver,7500,2012.0,toyota,camry,,,gas,,clean,automatic,,,,,,,co,39.77,-105.126
+greensboro,12995,2009.0,gmc,yukon,,,gas,146353.0,clean,automatic,1GKFK03289R297436,4wd,,SUV,black,,nc,35.7636,-78.7443
+greensboro,12995,2009.0,gmc,yukon,,,gas,146353.0,clean,automatic,1GKFK03289R297436,4wd,,SUV,black,,nc,35.7636,-78.7443
+greensboro,7995,2011.0,subaru,outback,,,gas,135775.0,clean,,4S4BRBAC9B3333460,,,wagon,,,nc,35.7636,-78.7443
+greensboro,5995,2006.0,ram,,,,gas,193172.0,clean,automatic,1D7HA18N96J103321,fwd,,pickup,blue,,nc,35.7636,-78.7443
+denver,19337,2013.0,toyota,tacoma prerunner sr5 lif,,,gas,87321.0,clean,automatic,3TMJU4GN2DM145027,rwd,,,,,co,39.676,-105.009
+denver,6900,2008.0,lexus,rx 350 awd,,6 cylinders,gas,193800.0,clean,automatic,,4wd,,,white,,co,39.671,-104.928
+greensboro,5495,2007.0,volvo,xc90,,,gas,138335.0,clean,automatic,YV4CZ982471354229,,,SUV,,,nc,35.7636,-78.7443
+greensboro,15300,2015.0,honda,accord lx-s coupe 2d,good,,gas,54296.0,clean,automatic,1HGCT1B39FA002562,fwd,,coupe,black,,nc,36.07,-79.82
+greensboro,9895,2005.0,toyota,4-runner,,,gas,172470.0,clean,automatic,JTEBT17R050047428,4wd,,wagon,silver,,nc,35.7636,-78.7443
+syracuse,4000,1995.0,dodge,,excellent,8 cylinders,gas,133000.0,clean,automatic,00000000000000,4wd,full-size,truck,grey,,ny,43.0734,-76.1568
+greensboro,4895,2008.0,volvo,xc70,,,gas,168798.0,clean,automatic,YV4BZ982081016906,,,wagon,white,,nc,35.7636,-78.7443
+denver,14980499,2013.0,ford,f-150,excellent,6 cylinders,gas,80683.0,clean,automatic,1FTEX1CM7DFD84075,rwd,full-size,,white,,co,39.7005,-104.865
+greensboro,16000,2011.0,bmw,535i,excellent,6 cylinders,gas,85000.0,salvage,automatic,,fwd,full-size,sedan,grey,,nc,35.5895,-82.5671
+syracuse,10950,2011.0,buick,lucerne cxl v6,excellent,6 cylinders,gas,43418.0,clean,automatic,1G4HC5EM9BU123841,fwd,full-size,sedan,red,,ny,43.1226,-76.1284
+greensboro,9895,2004.0,ford,f-150,,,gas,162867.0,clean,automatic,1FTPW145X4KB77884,4wd,,pickup,red,,nc,35.7636,-78.7443
+syracuse,9400,2011.0,bmw,x5,good,6 cylinders,gas,145000.0,clean,automatic,,4wd,,SUV,blue,,ny,43.1707,-76.0962
+greensboro,38900,2016.0,ram,2500,,,diesel,99801.0,clean,automatic,3C6UR5KL0GG160114,4wd,,pickup,black,,nc,36.2768,-80.3395
+greensboro,0,2017.0,nissan,370z,,6 cylinders,gas,41028.0,clean,manual,,rwd,,coupe,white,,nc,,
+syracuse,1500,2003.0,jeep,liberty,fair,6 cylinders,gas,146260.0,clean,automatic,,4wd,,,,,ny,43.0878,-75.7602
+syracuse,4500,2012.0,ford,fusion sel,excellent,6 cylinders,gas,155000.0,clean,automatic,,4wd,mid-size,sedan,silver,,ny,43.4427,-76.5108
+south jersey,999,2016.0,kia,sorento lx,excellent,4 cylinders,gas,71000.0,clean,automatic,,,,SUV,purple,,nj,39.4129,-74.3797
+south jersey,2250,2006.0,chevrolet,aveo,,,gas,,clean,automatic,,,,,,,nj,39.3223,-74.6008
+greensboro,8995,2007.0,toyota,tundra,,,gas,225667.0,clean,automatic,5TBRV54147S471674,fwd,,pickup,white,,nc,35.7636,-78.7443
+greensboro,4495,2007.0,volvo,s40,,,gas,119154.0,clean,automatic,YV1MS382X72314458,fwd,compact,sedan,blue,,nc,35.7636,-78.7443
+south jersey,1495,2004.0,hyundai,santa fe gls 4x4,good,6 cylinders,gas,196123.0,clean,automatic,KM8SC73D54U726423,4wd,,SUV,red,,nj,39.7054,-75.108
+south jersey,1,2000.0,mercedes-benz,benz s500,,,gas,,clean,automatic,,,,,,,nj,38.463,-76.1436
+richmond,2800,2002.0,nissan,xterra,like new,6 cylinders,gas,190000.0,clean,automatic,,4wd,full-size,SUV,silver,,va,37.7202,-77.0998
+south jersey,6795,2002.0,jeep,liberty,excellent,6 cylinders,gas,,clean,automatic,,4wd,,SUV,black,,nj,39.6371,-75.4981
+south jersey,0,2019.0,,🔴100% APPROVAL RATE🔴,new,other,other,,clean,other,,rwd,full-size,other,custom,,nj,,
+greensboro,7990,2006.0,bmw,x5,excellent,8 cylinders,gas,43780.0,clean,automatic,,,,,green,,nc,35.8014,-78.6877
+greensboro,0,2005.0,honda,cr-v,,,gas,186917.0,clean,automatic,SHSRD78855U301461,4wd,,SUV,black,,nc,35.9961,-80.0329
+greensboro,9890,2013.0,mercedes-benz,c300 4matic,excellent,6 cylinders,gas,100224.0,clean,automatic,,,,,black,,nc,35.8014,-78.6877
+south jersey,25900,2008.0,ford,f350 bucket truck,excellent,8 cylinders,gas,73000.0,clean,automatic,,rwd,full-size,truck,white,,nj,39.7776,-75.051
+richmond,29650,2017.0,lexus,rx 350,,6 cylinders,gas,44389.0,clean,automatic,2T2BZMCA9HC089414,4wd,,SUV,silver,,va,37.6237,-77.5303
+greensboro,6990,2013.0,chevrolet,equinox ls,excellent,4 cylinders,gas,97010.0,clean,automatic,,,,,,,nc,35.8014,-78.6877
+greensboro,6990,2010.0,ford,edge limited,excellent,6 cylinders,gas,97108.0,clean,automatic,,,,,white,,nc,35.8014,-78.6877
+greensboro,0,2000.0,toyota,4runner,,,gas,,clean,automatic,,,,,,,nc,36.1214,-79.7733
+greensboro,7590,2014.0,honda,civic lx,excellent,4 cylinders,gas,50019.0,salvage,automatic,,,,,,,nc,35.8014,-78.6877
+greensboro,6500,2014.0,subaru,impreza,excellent,4 cylinders,gas,118965.0,clean,automatic,,,,,blue,,nc,35.8014,-78.6877
+greensboro,9590,2013.0,cadillac,ats,excellent,4 cylinders,gas,75225.0,clean,automatic,,,,,,,nc,35.8014,-78.6877
+greensboro,6990,2008.0,audi,q7 3.6 premium quattro,excellent,6 cylinders,gas,169916.0,clean,automatic,,,,,grey,,nc,35.8014,-78.6877
+nashville,7900,2016.0,jeep,patriot,,,gas,70314.0,rebuilt,automatic,1C4NJPBB5GD584134,fwd,,,,,tn,36.146,-86.755
+greensboro,1500,1989.0,chevrolet,silverado 1500,fair,,gas,,clean,automatic,,,,,,,nc,35.6663,-80.0522
+greensboro,9590,2012.0,infiniti,fx35,excellent,6 cylinders,gas,120265.0,clean,automatic,,,,,silver,,nc,35.8014,-78.6877
+greensboro,6990,2011.0,cadillac,srx luxury collection,excellent,6 cylinders,gas,157909.0,clean,automatic,,,,,silver,,nc,35.8014,-78.6877
+greensboro,0,2008.0,ford,f-150,,,gas,,clean,automatic,,,,,,,nc,36.1214,-79.7733
+greensboro,4999,2007.0,infiniti,g35,good,6 cylinders,gas,113772.0,clean,automatic,,rwd,mid-size,sedan,custom,,nc,36.022,-79.7821
+greensboro,8599,2015.0,dodge,dart,good,4 cylinders,gas,38484.0,clean,automatic,,fwd,mid-size,sedan,white,,nc,36.022,-79.7821
+greensboro,34000,2012.0,ford,super duty f-250,good,8 cylinders,diesel,90557.0,clean,automatic,1FT7W2BTXCEA19744,4wd,full-size,,white,,nc,36.1038,-78.2924
+greensboro,4800,2008.0,pontiac,g5,good,4 cylinders,gas,106117.0,clean,automatic,1G2AL18FX87269768,fwd,sub-compact,coupe,silver,,nc,36.1038,-78.2924
+greensboro,27900,2015.0,jaguar,f-type,good,6 cylinders,gas,60333.0,clean,automatic,SAJWA6ET1F8K17856,rwd,mid-size,convertible,silver,,nc,36.1038,-78.2924
+greensboro,25500,2014.0,ford,f-150,good,6 cylinders,gas,88705.0,clean,automatic,1FTFW1ET9EFB93772,4wd,full-size,pickup,white,,nc,36.1038,-78.2924
+syracuse,8995,2018.0,ford,focus,,,gas,38127.0,clean,automatic,1FADP3F21JL251168,fwd,compact,sedan,silver,,ny,40.6787,-73.7484
+south jersey,0,2008.0,toyota,camry,,,gas,,clean,automatic,,,,,,,nj,39.9186,-75.1078
+south jersey,3950,2007.0,mini,cooper,,,gas,,clean,manual,,,,,,,nj,40.0044,-74.9792
+richmond,25500,2016.0,lexus,es 350,,6 cylinders,gas,2870.0,clean,automatic,58ABK1GG4GU012008,fwd,,sedan,silver,,va,37.6237,-77.5303
+"quad cities, IA/IL",3500,2013.0,dodge,dart,,,gas,,clean,manual,,,,,,,il,41.8517,-90.2078
+south jersey,12890,2013.0,ford,edge,,,gas,64430.0,clean,automatic,2FMDK3KC1DBB49649,fwd,,,brown,,nj,39.7461,-75.0452
+"quad cities, IA/IL",21950,2016.0,bmw,x3 xdrive28i awd crossover,,,gas,42388.0,clean,automatic,5UXWX9C52G0D74980,,,,,,il,44.8346,-91.5159
+south jersey,12190,2013.0,audi,a5,,,gas,94223.0,clean,automatic,WAUCFAFR5DA046850,,,,grey,,nj,39.899,-75.0747
+south jersey,7785,2011.0,ford,escape,,,gas,118282.0,clean,automatic,,,,SUV,silver,,nj,40.1304,-74.8324
+south jersey,15695,2015.0,toyota,rav4,,,gas,93190.0,clean,automatic,,4wd,,wagon,,,nj,40.1304,-74.8324
+south jersey,3500,2009.0,volkswagen,eos convertible,excellent,4 cylinders,gas,75000.0,clean,manual,,fwd,,,,,nj,39.8036,-75.0058
+south jersey,4200,2008.0,mercedes-benz,benz e350,fair,5 cylinders,gas,232932.0,clean,automatic,,4wd,full-size,sedan,blue,,nj,39.8676,-75.0317
+south jersey,20895,2016.0,mercedes-benz,c-class,,,gas,39439.0,clean,automatic,55SWF4KB5GU100619,,,sedan,white,,nj,40.8765,-74.0721
+south jersey,5999,2005.0,toyota,highlander,,,gas,139015.0,clean,automatic,JTEEP21A050106133,,,,blue,,nj,39.729,-75.0303
+south jersey,5698,2012.0,chrysler,200,,,gas,135877.0,clean,automatic,1C3CCBBB9CN283413,fwd,,,brown,,nj,39.729,-75.0303
+nashville,7000,2015.0,nissan,versa note,like new,4 cylinders,gas,72000.0,clean,automatic,,fwd,compact,sedan,white,,tn,36.2604,-86.7046
+"quad cities, IA/IL",6500,2004.0,ford,mustang convertible,excellent,6 cylinders,gas,,clean,automatic,,rwd,,,,,il,41.656000000000006,-90.0843
+"quad cities, IA/IL",2500,2004.0,pontiac,grand prix,,,gas,,clean,automatic,,,,,,,il,41.8517,-90.2078
+south jersey,1000,2017.0,ram,1500,,,gas,,clean,automatic,,,,,,,nj,40.251,-74.7627
+raleigh / durham / CH,10995,2014.0,chevrolet,traverse,,,gas,112383.0,clean,automatic,1GNKRGKD2EJ157108,fwd,,SUV,black,,nc,35.7636,-78.7443
+richmond,5500,2013.0,hyundai,sonata,like new,4 cylinders,gas,110000.0,clean,automatic,,fwd,full-size,sedan,red,,va,37.7202,-77.0998
+"quad cities, IA/IL",5500,2007.0,chevrolet,tahoe ltz,,,gas,,clean,automatic,,,,,,,il,41.8517,-90.2078
+western slope,82000,1997.0,rover,defender 90,excellent,8 cylinders,gas,54000.0,clean,automatic,SALDV2241VA115053,4wd,full-size,SUV,green,,co,37.94,-107.821
+"quad cities, IA/IL",12000,2001.0,ram,3500,good,6 cylinders,diesel,,clean,automatic,,4wd,,,white,,il,41.2008,-90.7416
+"quad cities, IA/IL",14950,2012.0,lexus,is 350 awd luxury sport se,,,gas,91992.0,clean,automatic,JTHCE5C29C5002294,,,,,,il,44.8346,-91.5159
+"quad cities, IA/IL",5500,2006.0,chevrolet,tahoe,good,,gas,144500.0,clean,automatic,,4wd,full-size,,white,,il,41.5118,-90.4321
+western slope,6900,2009.0,nissan,murano,,6 cylinders,gas,139442.0,clean,automatic,,fwd,,,,,co,39.0645,-108.55
+"quad cities, IA/IL",1950,1942.0,,plymouth,fair,6 cylinders,gas,,clean,manual,,rwd,full-size,sedan,blue,,il,42.0778,-90.6771
+richmond,12495,2018.0,nissan,sentra,,,gas,11111.0,clean,automatic,3N1AB7APXJY288848,fwd,,,black,,va,37.6501,-77.609
+"quad cities, IA/IL",4000,2008.0,dodge,grand caravan se,,,gas,175000.0,clean,automatic,,,,,white,,il,41.5386,-90.6115
+"quad cities, IA/IL",1500,2003.0,ford,f-150,fair,8 cylinders,gas,235000.0,clean,automatic,,fwd,full-size,pickup,red,,il,41.8167,-89.969
+richmond,7999,2013.0,nissan,altima,,,gas,85800.0,clean,automatic,1N4AL3AP9DC295781,fwd,,,,,va,37.6501,-77.609
+"quad cities, IA/IL",14900,2017.0,chrysler,200,excellent,4 cylinders,gas,80903.0,clean,automatic,1C3CCCAB7HN509429,fwd,,sedan,black,,il,41.9705,-91.6698
+"quad cities, IA/IL",12990,2013.0,chrysler,300c,excellent,8 cylinders,gas,115053.0,clean,automatic,2C3CCAET5DH580798,rwd,,sedan,red,,il,41.9705,-91.6698
+"quad cities, IA/IL",14990,2014.0,chrysler,300,excellent,6 cylinders,gas,57954.0,clean,automatic,2C3CCARG4EH207444,4wd,,sedan,black,,il,41.9705,-91.6698
+"quad cities, IA/IL",12990,2015.0,toyota,camry,excellent,4 cylinders,gas,79212.0,clean,automatic,4T1BF1FK3FU032248,fwd,,sedan,white,,il,41.9705,-91.6698
+"quad cities, IA/IL",15990,2013.0,honda,pilot,excellent,6 cylinders,gas,109473.0,clean,automatic,5FNYF4H61DB001991,4wd,,SUV,black,,il,41.9705,-91.6698
+"quad cities, IA/IL",11500,2012.0,kia,sorento,excellent,4 cylinders,gas,104174.0,clean,automatic,5XYKUDA62CG243654,4wd,,SUV,silver,,il,41.9705,-91.6698
+"quad cities, IA/IL",11500,2011.0,cadillac,srx,excellent,6 cylinders,gas,128536.0,clean,automatic,3GYFNEEY6BS555595,4wd,,SUV,white,,il,41.9705,-91.6698
+"quad cities, IA/IL",9200,2008.0,honda,pilot,excellent,6 cylinders,gas,147191.0,clean,automatic,5FNYF18798B014971,4wd,,SUV,blue,,il,41.9705,-91.6698
+denver,27900,2013.0,jeep,wrangler unlimited rubicon,good,6 cylinders,gas,103700.0,clean,automatic,,4wd,,offroad,orange,,co,39.7378,-104.815
+"quad cities, IA/IL",11250,2007.0,gmc,yukon xl,excellent,8 cylinders,gas,166661.0,clean,automatic,1GKFK16367J161876,4wd,,SUV,silver,,il,41.9705,-91.6698
+"quad cities, IA/IL",19500,2011.0,chevrolet,silverado 1500,excellent,8 cylinders,gas,128413.0,clean,automatic,3GCPKTE39BG208762,4wd,,pickup,black,,il,41.9705,-91.6698
+"quad cities, IA/IL",18500,2011.0,chevrolet,silverado 2500,excellent,8 cylinders,gas,101903.0,clean,automatic,1GC2KXCG5BZ242222,4wd,,pickup,black,,il,41.9705,-91.6698
+"quad cities, IA/IL",10550,2010.0,mercedes-benz,glk 350,excellent,6 cylinders,gas,142476.0,clean,automatic,WDCGG8HB3AF487430,4wd,,SUV,blue,,il,41.9705,-91.6698
+"quad cities, IA/IL",8990,2012.0,honda,accord,excellent,4 cylinders,gas,111142.0,clean,automatic,1HGCP2F49CA225970,fwd,mid-size,sedan,grey,,il,41.9705,-91.6698
+"quad cities, IA/IL",18990,2012.0,ram,1500,excellent,8 cylinders,gas,140742.0,clean,automatic,1C6RD7MT8CS252250,4wd,,pickup,black,,il,41.9705,-91.6698
+"quad cities, IA/IL",16990,2016.0,dodge,journey,excellent,6 cylinders,gas,70864.0,clean,automatic,3C4PDDGG5GT160952,4wd,,SUV,black,,il,41.9705,-91.6698
+"quad cities, IA/IL",16500,2018.0,hyundai,sonata,excellent,4 cylinders,gas,22104.0,clean,automatic,5NPE24AF9JH607092,fwd,,sedan,silver,,il,41.9705,-91.6698
+"quad cities, IA/IL",12990,2009.0,gmc,yukon,excellent,8 cylinders,gas,132285.0,clean,automatic,1GKFK23099R280896,4wd,,SUV,black,,il,41.9705,-91.6698
+"quad cities, IA/IL",18990,2014.0,ford,f150 fx4,excellent,8 cylinders,gas,151679.0,clean,automatic,1FTFW1EF0EKE39528,4wd,,pickup,red,,il,41.9705,-91.6698
+"quad cities, IA/IL",17990,2013.0,ram,1500,excellent,8 cylinders,gas,133100.0,clean,automatic,1C6RR7LTXDS724761,4wd,,pickup,red,,il,41.9705,-91.6698
+"quad cities, IA/IL",14990,2010.0,ram,1500,excellent,8 cylinders,gas,130725.0,clean,automatic,1D7RV1CT2AS183868,4wd,,pickup,red,,il,41.9705,-91.6698
+"quad cities, IA/IL",12990,2014.0,buick,lacrosse,excellent,6 cylinders,gas,93893.0,clean,automatic,1G4GB5G33EF217337,fwd,,sedan,white,,il,41.9705,-91.6698
+"quad cities, IA/IL",13990,2014.0,jeep,cherokee,excellent,6 cylinders,gas,100669.0,clean,automatic,1C4PJMCSXEW230424,4wd,,SUV,red,,il,41.9705,-91.6698
+denver,8999,2013.0,ford,escape,,,gas,156775.0,clean,automatic,1FMCU0HX4DUA40398,fwd,,SUV,,,co,39.7401,-105.065
+south jersey,13780,2014.0,mazda,cx-5,,,gas,66764.0,clean,automatic,JM3KE4CY7E0337881,,,,silver,,nj,39.729,-75.0303
+"quad cities, IA/IL",15500,2008.0,gmc,yukon xl,excellent,8 cylinders,gas,140049.0,clean,automatic,1GKFK66808J226831,4wd,,SUV,black,,il,41.9705,-91.6698
+"quad cities, IA/IL",12500,2013.0,chevrolet,traverse,excellent,6 cylinders,gas,128325.0,clean,automatic,1GNKVGKD3DJ186191,4wd,,SUV,white,,il,41.9705,-91.6698
+south jersey,11980,2014.0,honda,insight,,,gas,31943.0,clean,automatic,JHMZE2H70ES001875,fwd,,,,,nj,39.729,-75.0303
+south jersey,18995,2017.0,gmc,terrain,,,gas,28328.0,clean,automatic,2GKFLTEK2H6112626,,,,,,nj,39.8945,-74.9373
+"quad cities, IA/IL",16300,2017.0,jeep,renegade,excellent,4 cylinders,gas,40926.0,clean,automatic,ZACCJABB2HPF21435,fwd,,SUV,red,,il,41.9705,-91.6698
+"quad cities, IA/IL",13990,2018.0,hyundai,elantra,excellent,4 cylinders,gas,31932.0,clean,automatic,5NPD84LF3JH219959,fwd,,sedan,red,,il,41.9705,-91.6698
+"quad cities, IA/IL",6990,2005.0,chevrolet,tahoe,excellent,8 cylinders,gas,147485.0,clean,automatic,1GNEK13T75R148328,4wd,,SUV,silver,,il,41.9705,-91.6698
+south jersey,18750,2018.0,buick,regal sportback,,,gas,20046.0,clean,automatic,W04GL6SX4J1091492,fwd,,,black,,nj,39.8945,-74.9373
+south jersey,0,2007.0,infiniti,g35,,,gas,,clean,automatic,,,,,,,nj,40.068000000000005,-74.8454
+south jersey,0,2013.0,dodge,avenger,,,gas,,clean,automatic,,,,,,,nj,40.068000000000005,-74.8454
+south jersey,3000,1999.0,gmc,isuzu w4500,good,4 cylinders,diesel,249625.0,clean,automatic,,rwd,,,white,,nj,39.7013,-75.1279
+south jersey,3950,2003.0,ram,1500,,,gas,,clean,automatic,,,,,,,nj,39.6211,-75.0458
+south jersey,11950,2007.0,chevrolet,tahoe lt,like new,8 cylinders,gas,121000.0,clean,automatic,,4wd,full-size,SUV,,,nj,39.9511,-74.9946
+south jersey,0,2008.0,toyota,,,,gas,,clean,automatic,,,,,,,nj,40.068000000000005,-74.8454
+south jersey,0,2009.0,nissan,maxima,excellent,8 cylinders,gas,,clean,automatic,,,,,,,nj,40.068000000000005,-74.8454
+south jersey,0,2012.0,buick,verano,excellent,,gas,,clean,automatic,,,,,,,nj,40.068000000000005,-74.8454
+south jersey,30000,1971.0,pontiac,gto,,,gas,,clean,automatic,242371P141587,,,,,,nj,39.1378,-74.7806
+south jersey,4400,2012.0,mini,hardtop,,4 cylinders,gas,148790.0,clean,automatic,WMWSU3C51CT541788,fwd,,coupe,red,,nj,40.4082,-74.3729
+"quad cities, IA/IL",8000,2005.0,lexus,ls 430,excellent,8 cylinders,gas,116048.0,clean,automatic,JTHBN36FX55021003,rwd,,sedan,white,,il,41.9705,-91.6698
+"quad cities, IA/IL",6500,2007.0,ford,f-150,good,,gas,,clean,automatic,,,,,,,il,41.4304,-91.0509
+"quad cities, IA/IL",1800,1986.0,lincoln,mark vii,,,gas,,clean,automatic,,,,coupe,,,il,41.5509,-90.4942
+south jersey,7400,2013.0,nissan,maxima,,6 cylinders,gas,121744.0,clean,automatic,1N4AA5AP9DC820128,fwd,,sedan,grey,,nj,40.4082,-74.3729
+denver,4300,2002.0,subaru,outback,like new,4 cylinders,gas,145000.0,clean,manual,,4wd,,,white,,co,39.6971,-104.882
+denver,6500,2001.0,toyota,tundra,good,8 cylinders,gas,202000.0,clean,automatic,,4wd,,,blue,,co,39.7665,-105.02
+south jersey,3900,2007.0,mercury,mountaineer,,6 cylinders,gas,171114.0,clean,automatic,4M2EU47E67UJ22183,4wd,,SUV,white,,nj,40.4082,-74.3729
+south jersey,5400,2010.0,subaru,outback,,4 cylinders,gas,164362.0,clean,automatic,4S4BRBGC7A3343894,4wd,,wagon,black,,nj,40.4082,-74.3729
+"quad cities, IA/IL",5250,2007.0,toyota,rav4,good,6 cylinders,gas,154000.0,clean,automatic,,fwd,,SUV,black,,il,41.5748,-90.531
+south jersey,6900,2014.0,volkswagen,passat,,4 cylinders,gas,108116.0,clean,automatic,1VWAT7A38EC030055,fwd,,sedan,silver,,nj,40.4082,-74.3729
+denver,2000,1998.0,,Lexis 300 EF,good,6 cylinders,gas,,clean,automatic,,fwd,mid-size,sedan,brown,,co,39.7473,-104.978
+south jersey,13000,2011.0,jeep,wrangler,,6 cylinders,gas,81327.0,clean,automatic,1J4BA6D1XBL517250,4wd,,SUV,black,,nj,40.4082,-74.3729
+richmond,8500,2011.0,jaguar,xf premium,good,8 cylinders,gas,95350.0,clean,automatic,,rwd,mid-size,sedan,silver,,va,37.5133,-77.5646
+richmond,7500,2004.0,chevrolet,silverado,like new,8 cylinders,gas,180000.0,clean,automatic,,4wd,full-size,truck,red,,va,37.7202,-77.0998
+south jersey,7500,2008.0,,INIFINTI M35X,excellent,6 cylinders,gas,91384.0,clean,automatic,JNKAY01F98M652733,4wd,,,blue,,nj,39.6491,-75.5155
+south jersey,975,2002.0,ford,ranger pickup,good,6 cylinders,gas,175376.0,clean,automatic,,rwd,,pickup,black,,nj,39.9999,-74.2228
+south jersey,999,2012.0,jeep,wrangler unlimited sahara,excellent,6 cylinders,gas,121028.0,clean,other,1C4HJWEG0CL122983,4wd,,SUV,,,nj,40.2331,-74.7642
+"quad cities, IA/IL",2800,1991.0,,1991,fair,4 cylinders,gas,42000.0,rebuilt,automatic,,,,convertible,white,,il,41.4885,-90.321
+south jersey,2950,2012.0,chevrolet,sonic lt,,4 cylinders,gas,,clean,automatic,,,,,,,nj,40.0086,-74.7896
+denver,15500,2008.0,toyota,tundra sr5 4x4,good,8 cylinders,gas,130885.0,clean,automatic,,4wd,full-size,truck,blue,,co,39.759,-104.96600000000001
+denver,2450,2007.0,ford,,,,gas,,clean,automatic,,,,,,,co,38.6996,-104.70100000000001
+south jersey,0,2005.0,jeep,grand cherokee,,,other,,clean,automatic,,,,,silver,,nj,39.8857,-75.3082
+south jersey,0,2007.0,gmc,savana,,,other,,clean,automatic,,,,,white,,nj,39.8857,-75.3082
+south jersey,3500,2006.0,honda,odyssey ex-l,excellent,6 cylinders,gas,,clean,automatic,,,full-size,van,grey,,nj,39.5553,-75.0276
+"quad cities, IA/IL",11000,2009.0,ford,f-150,,,gas,,clean,automatic,,,,,,,il,40.9521,-90.3698
+south jersey,1500,2001.0,honda,accord,good,,gas,158000.0,clean,automatic,,,,sedan,,,nj,39.5591,-75.4521
+"quad cities, IA/IL",16900,2015.0,gmc,savana cutaway,,,gas,161993.0,clean,other,,rwd,,other,white,,il,,
+"quad cities, IA/IL",14500,2017.0,nissan,nv200 compact cargo,excellent,6 cylinders,gas,5000.0,rebuilt,automatic,,fwd,compact,van,white,,il,42.2582,-90.4356
+"quad cities, IA/IL",17900,2013.0,,Isuzu NPR,,,diesel,143759.0,clean,automatic,,,,other,white,,il,,
+"quad cities, IA/IL",4250,2007.0,honda,element sc,,4 cylinders,gas,162852.0,rebuilt,manual,,fwd,,,silver,,il,41.5164,-90.6141
+richmond,0,2017.0,hyundai,elantra,,,gas,77292.0,clean,automatic,5NPD74LF0HH208804,,,other,silver,,va,38.2571,-77.4957
+south jersey,7500,2004.0,jeep,wrangler,good,6 cylinders,gas,114000.0,clean,automatic,,4wd,,SUV,red,,nj,39.3741,-74.6118
+"quad cities, IA/IL",2500,2002.0,chevrolet,monte carlo,,6 cylinders,gas,153028.0,clean,automatic,2G1WX15K129130277,fwd,,other,black,,il,42.4778,-92.3661
+south jersey,11995,2010.0,audi,a8 l,,8 cylinders,gas,103025.0,clean,automatic,WAURVAFA8AN008573,,,sedan,black,,nj,39.9804,-74.8209
+"quad cities, IA/IL",3950,2009.0,chrysler,200,excellent,4 cylinders,gas,139814.0,clean,automatic,,fwd,mid-size,sedan,red,,il,41.4688,-90.1711
+"quad cities, IA/IL",25900,2012.0,ford,f350 xlt,good,8 cylinders,gas,59950.0,lien,automatic,,4wd,,truck,white,,il,40.9601,-90.3707
+"quad cities, IA/IL",26250,2018.0,mazda,cx-5 grand touring awd,like new,4 cylinders,gas,17200.0,clean,automatic,,,,SUV,blue,,il,41.5509,-90.4942
+"quad cities, IA/IL",2200,2008.0,chrysler,sebring,fair,6 cylinders,gas,127000.0,clean,automatic,,fwd,mid-size,convertible,blue,,il,41.4906,-90.49799999999999
+omaha / council bluffs,8999,2014.0,chevrolet,malibu limited,like new,4 cylinders,gas,55976.0,clean,automatic,1G11C5SLXEF303185,fwd,full-size,sedan,black,,ia,41.1497,-95.9099
+rockford,12500,2015.0,gmc,savana cutaway,,8 cylinders,gas,213452.0,clean,automatic,,rwd,,other,white,,il,,
+nashville,16500,2012.0,mazda,mx-5 miata touring,good,,gas,27995.0,clean,other,JM1NC2LF1C0225315,rwd,,other,blue,,tn,36.2,-86.32
+omaha / council bluffs,11499,2017.0,chevrolet,malibu,like new,4 cylinders,gas,35034.0,clean,automatic,1G1ZB5ST6HF232268,fwd,mid-size,sedan,black,,ia,41.1497,-95.9099
+omaha / council bluffs,8999,2016.0,chevrolet,malibu limited,like new,4 cylinders,gas,75258.0,clean,automatic,1G11C5SA7GU122249,fwd,mid-size,sedan,black,,ia,41.1497,-95.9099
+nashville,9500,2012.0,chevrolet,silverado z71,excellent,8 cylinders,gas,208000.0,clean,automatic,,rwd,,,,,tn,36.8453,-86.8823
+omaha / council bluffs,8499,2014.0,ford,fusion se,like new,4 cylinders,gas,79523.0,clean,automatic,1FA6P0H76E5350207,fwd,full-size,sedan,red,,ia,41.1497,-95.9099
+rockford,10995,2000.0,ford,f350 lariat,,,gas,,clean,automatic,,,,,,,il,42.3295,-89.0335
+rockford,199,2017.0,chrysler,200,,,gas,,clean,automatic,,,,,,,il,42.3295,-89.0335
+rockford,499,2017.0,ford,f150 supercrew cab xlt,,,gas,,clean,automatic,,,,,,,il,42.3295,-89.0335
+south jersey,4995,2003.0,nissan,xterra,,6 cylinders,gas,107823.0,clean,manual,5N1ED28Y73C645730,4wd,,SUV,black,,nj,39.9804,-74.8209
+rockford,199,2012.0,dodge,durango sxt awd,,,gas,,clean,automatic,,,,,,,il,42.3295,-89.0335
+rockford,399,2014.0,ford,f150 lariat 4x4,,,gas,,clean,automatic,,,,,,,il,42.3295,-89.0335
+south jersey,3995,2005.0,honda,accord coupe,,4 cylinders,gas,140935.0,clean,automatic,1HGCM72795A007486,fwd,,coupe,white,,nj,39.9804,-74.8209
+nashville,1500,1991.0,toyota,4runner,salvage,6 cylinders,gas,256404.0,clean,manual,,4wd,,SUV,,,tn,35.9103,-86.3841
+omaha / council bluffs,12999,2015.0,chevrolet,impala,like new,6 cylinders,gas,39368.0,clean,automatic,2G1125S39F9100866,fwd,full-size,sedan,custom,,ia,41.1497,-95.9099
+omaha / council bluffs,12999,2013.0,gmc,acadia awd slt-1,like new,6 cylinders,gas,88489.0,clean,automatic,1GKKVRKDXDJ262708,4wd,full-size,SUV,custom,,ia,41.1497,-95.9099
+greensboro,54000,2013.0,,Maserati GranTurismo Convertible,excellent,8 cylinders,gas,23034.0,clean,automatic,ZAM45VMA6D0068954,rwd,mid-size,convertible,black,,nc,36.1038,-78.2924
+rockford,299,2017.0,gmc,terrain sle-2,,,gas,,clean,automatic,,,,,,,il,42.3295,-89.0335
+richmond,2950,2001.0,ford,f650,excellent,8 cylinders,diesel,,clean,automatic,,rwd,,,white,,va,39.1077,-76.872
+south jersey,10995,2016.0,chevrolet,malibu limited,,4 cylinders,,85254.0,clean,automatic,1G11A5SA6GF110863,fwd,,,silver,,nj,39.9804,-74.8209
+rockford,499,2017.0,ram,1500 rebel,,,gas,,clean,automatic,,,,,,,il,42.3295,-89.0335
+greensboro,29800,2012.0,chevrolet,corvette,excellent,8 cylinders,gas,57413.0,clean,automatic,1G1YW2DW5C5101546,rwd,mid-size,coupe,orange,,nc,36.1038,-78.2924
+south jersey,9495,2011.0,audi,a6,,6 cylinders,gas,106264.0,clean,automatic,WAUKGAFB2BN014844,,,sedan,silver,,nj,39.9804,-74.8209
+richmond,6500,2008.0,lexus,gs460,good,6 cylinders,gas,,clean,automatic,,rwd,full-size,sedan,white,,va,37.4638,-77.398
+south jersey,7995,2008.0,mercedes-benz,r-class,,6 cylinders,gas,103216.0,clean,automatic,4JGCB65E08A084613,,,SUV,,,nj,39.9804,-74.8209
+south jersey,4495,2012.0,fiat,500,,4 cylinders,gas,121244.0,clean,manual,3C3CFFDR0CT213954,fwd,,convertible,black,,nj,39.9804,-74.8209
+rockford,5495,2010.0,chevrolet,impala,excellent,6 cylinders,gas,144240.0,clean,automatic,,fwd,full-size,sedan,white,,il,42.012,-89.3173
+rockford,3500,2011.0,ford,crown victoria,excellent,8 cylinders,gas,,clean,automatic,,rwd,full-size,sedan,white,,il,42.01,-89.3171
+rockford,5000,2009.0,jeep,liberty,good,6 cylinders,gas,137273.0,clean,automatic,1J8GN28K09W512877,4wd,full-size,SUV,white,,il,42.2618,-89.0989
+omaha / council bluffs,11999,2017.0,toyota,camry le,excellent,4 cylinders,gas,35721.0,clean,automatic,4T1BF1FK0HU647164,fwd,full-size,sedan,red,,ia,41.1497,-95.9099
+rockford,2600,2004.0,chevrolet,s-10,excellent,,gas,190000.0,clean,automatic,,,,,,,il,42.3545,-89.0397
+omaha / council bluffs,9499,2015.0,nissan,altima,like new,4 cylinders,gas,51848.0,clean,automatic,1N4AL3AP3FC187501,fwd,mid-size,sedan,grey,,ia,41.1497,-95.9099
+omaha / council bluffs,3890,2011.0,subaru,outback,excellent,4 cylinders,gas,300000.0,clean,automatic,,4wd,,SUV,white,,ia,41.2962,-95.965
+richmond,11990,2010.0,chevrolet,silverado 1500 hybrid,,8 cylinders,gas,54680.0,clean,automatic,,rwd,,,white,,va,40.0037,-75.0257
+richmond,13990,2014.0,toyota,tacoma prerunner,excellent,4 cylinders,gas,96009.0,clean,automatic,,rwd,,,white,,va,40.0037,-75.0257
+western slope,4900,2008.0,nissan,altima,,4 cylinders,gas,127755.0,clean,automatic,,fwd,,,,,co,39.0645,-108.55
+greensboro,38200,2016.0,cadillac,ct6 sedan,good,6 cylinders,gas,27976.0,clean,automatic,1G6KK5R67GU150295,4wd,full-size,sedan,white,,nc,36.1038,-78.2924
+rockford,5400,2006.0,audi,a4,excellent,4 cylinders,gas,164000.0,clean,automatic,,4wd,,sedan,blue,,il,42.2786,-89.0361
+rockford,2500,2000.0,chevrolet,silverado,fair,8 cylinders,gas,,clean,manual,,rwd,,,black,,il,41.8643,-89.2086
+rockford,0,2011.0,nissan,pathfinder,excellent,6 cylinders,gas,179980.0,clean,automatic,5N1AR1NB3BC606061,4wd,full-size,SUV,red,,il,42.3204,-88.9827
+south jersey,4595,2007.0,chevrolet,cobalt,,4 cylinders,gas,103315.0,clean,automatic,1G1AL15FX77310049,fwd,,coupe,blue,,nj,39.9804,-74.8209
+rockford,0,2011.0,ford,f-150,excellent,6 cylinders,gas,75576.0,clean,automatic,1FTFW1ET6BFC24567,4wd,mid-size,truck,,,il,42.2662,-89.0046
+greensboro,9500,2008.0,toyota,highlander,good,6 cylinders,gas,149799.0,clean,automatic,JTEDS42A682027627,fwd,mid-size,SUV,white,,nc,36.1038,-78.2924
+rockford,11200,2014.0,volkswagen,passat,excellent,4 cylinders,diesel,,clean,automatic,1VWBN7A34EC090770,fwd,full-size,sedan,black,,il,42.0376,-88.3186
+greensboro,14999,2015.0,dodge,charger,good,6 cylinders,gas,63037.0,clean,automatic,,rwd,full-size,sedan,white,,nc,36.022,-79.7821
+greensboro,17300,2010.0,cadillac,escalade ext,good,8 cylinders,gas,141276.0,clean,automatic,3GYVKMEF9AG209040,4wd,full-size,pickup,black,,nc,36.1038,-78.2924
+greensboro,10499,2013.0,chrysler,300,good,6 cylinders,gas,88042.0,clean,automatic,,rwd,mid-size,sedan,grey,,nc,36.022,-79.7821
+rockford,7500,2005.0,toyota,tacoma,good,6 cylinders,gas,160000.0,clean,automatic,,rwd,mid-size,pickup,silver,,il,42.2166,-89.0512
+rockford,8700,2008.0,ford,f250 super duty 4x4,good,8 cylinders,diesel,233000.0,clean,automatic,,4wd,,pickup,white,,il,42.3545,-89.0397
+richmond,13990,2014.0,toyota,tacoma prerunner,excellent,4 cylinders,gas,96009.0,clean,automatic,,rwd,,,white,,va,40.0037,-75.0257
+rockford,6400,1968.0,mercury,cougar,,,gas,41999.0,clean,automatic,,,,,,,il,42.4544,-89.0887
+richmond,9750,2013.0,chevrolet,avalanche z71,like new,8 cylinders,gas,,clean,automatic,,4wd,,,green,,va,39.1077,-76.872
+greensboro,16900,2012.0,audi,q7,excellent,,diesel,119500.0,clean,automatic,WA1LMAFE7CD008503,4wd,,SUV,white,,nc,36.1032,-79.8794
+nashville,9900,2001.0,gmc,savana 3500,good,8 cylinders,gas,,clean,automatic,,rwd,,van,white,,tn,36.0298,-87.3473
+denver,16337,2013.0,toyota,highlander 4x4 3rd row s,,,gas,110610.0,clean,automatic,5TDBK3EH1DS177131,4wd,,wagon,,,co,39.676,-105.009
+nashville,15699,2016.0,hyundai,veloster,,,gas,29728.0,clean,automatic,KMHTC6AE8GU285269,,compact,coupe,black,,tn,36.1715,-86.4971
+denver,2500,2005.0,ford,five hundred,good,6 cylinders,gas,140000.0,clean,automatic,,fwd,,sedan,blue,,co,39.8056,-104.92200000000001
+greensboro,4300,1994.0,chevrolet,silverado 1500,excellent,8 cylinders,gas,,clean,automatic,,4wd,full-size,truck,red,,nc,36.1673,-79.9804
+south jersey,5495,2003.0,honda,cr-v,,4 cylinders,gas,122268.0,clean,automatic,SHSRD78863U147520,,,SUV,green,,nj,39.9804,-74.8209
+greensboro,7999,2015.0,chrysler,200,good,4 cylinders,gas,78980.0,clean,automatic,,fwd,full-size,sedan,black,,nc,36.06,-79.8611
+south jersey,10495,2014.0,subaru,forester,,4 cylinders,gas,99872.0,clean,automatic,JF2SJAAC1EH480919,,,SUV,,,nj,39.9804,-74.8209
+south jersey,7995,2008.0,volkswagen,golf gti,,4 cylinders,gas,73241.0,clean,automatic,WVWHD71K88W299827,fwd,,hatchback,grey,,nj,39.9804,-74.8209
+greensboro,5995,2012.0,hyundai,elantra gls,,,gas,134186.0,clean,manual,5NPDH4AE1CH116620,,,,,,nc,35.7904,-78.7717
+south jersey,8995,2010.0,chevrolet,tahoe,,8 cylinders,,152619.0,clean,automatic,1GNUKAE00AR275821,4wd,,SUV,white,,nj,39.9804,-74.8209
+greensboro,33900,2013.0,ford,f-350,,,diesel,144000.0,clean,automatic,1FT8W3DT9DEA67163,4wd,,pickup,white,,nc,36.2768,-80.3395
+nashville,30900,2017.0,ford,f250,good,8 cylinders,gas,,clean,automatic,,4wd,,truck,white,,tn,36.0298,-87.3474
+south jersey,10995,2015.0,ram,1500,,8 cylinders,gas,91497.0,clean,other,3C6JR6DT7FG531290,rwd,,pickup,white,,nj,39.9804,-74.8209
+south jersey,2800,1999.0,chevrolet,malibu ls,like new,6 cylinders,gas,,clean,automatic,,,,,,,nj,39.9093,-74.1549
+omaha / council bluffs,9249,2016.0,jeep,patriot,like new,4 cylinders,gas,63211.0,clean,automatic,1C4NJPBB3GD561791,fwd,mid-size,SUV,grey,,ia,41.1497,-95.9099
+south jersey,8900,2009.0,chevrolet,avalanche,,8 cylinders,gas,201000.0,clean,automatic,,4wd,,,,,nj,39.3673,-75.0293
+richmond,194,2016.0,buick,encore,good,4 cylinders,gas,30415.0,clean,automatic,KL4CJASB3GB650576,,,other,,,va,37.2604,-77.3246
+rockford,13590,2018.0,nissan,sentra,excellent,4 cylinders,gas,42197.0,clean,automatic,3N1AB7AP7JY325659,fwd,,,blue,,il,42.2991,-89.6345
+rockford,8900,2012.0,gmc,terrain,good,6 cylinders,gas,160687.0,clean,automatic,2GKFLXE50C6147417,4wd,,,white,,il,42.2991,-89.6345
+richmond,299,2014.0,chevrolet,silverado 1500 lt,good,6 cylinders,other,46496.0,clean,automatic,1GCRCREH0EZ162893,,,pickup,,,va,37.2604,-77.3246
+richmond,228,2017.0,chevrolet,equinox lt,good,4 cylinders,gas,49167.0,clean,automatic,2GNFLFEK8H6150141,,,other,,,va,37.2604,-77.3246
+south jersey,6500,2010.0,ford,f150,,8 cylinders,gas,177000.0,clean,automatic,,rwd,,,,,nj,39.3673,-75.0293
+rockford,11580,2018.0,ford,fiesta,excellent,4 cylinders,gas,37075.0,clean,automatic,3FADP4EJ5JM122878,fwd,,,silver,,il,42.2991,-89.6345
+rockford,8000,2009.0,ford,f-150,good,8 cylinders,gas,234000.0,clean,automatic,123456789,4wd,full-size,truck,black,,il,42.1229,-89.5831
+rockford,15990,2018.0,ford,fusion se hybrid,good,4 cylinders,gas,2678.0,clean,automatic,3FA6P0LUXJR138155,fwd,,sedan,grey,,il,42.2991,-89.6345
+rockford,13540,2013.0,ford,explorer xlt,good,6 cylinders,gas,90998.0,clean,automatic,1FM5K7D86DGC85496,fwd,,SUV,silver,,il,42.2991,-89.6345
+omaha / council bluffs,8499,2016.0,jeep,patriot,like new,4 cylinders,gas,21998.0,clean,manual,1C4NJPBA7GD569965,fwd,mid-size,SUV,green,,ia,41.1497,-95.9099
+omaha / council bluffs,7999,2016.0,dodge,dart,like new,4 cylinders,gas,39994.0,clean,automatic,1C3CDFAA0GD625632,fwd,mid-size,sedan,orange,,ia,41.1497,-95.9099
+omaha / council bluffs,9249,2016.0,toyota,corolla s,excellent,4 cylinders,gas,64339.0,clean,automatic,2T1BURHE9GC555627,fwd,mid-size,sedan,red,,ia,41.1497,-95.9099
+south jersey,3900,2001.0,ford,ranger,,6 cylinders,gas,154000.0,clean,automatic,,rwd,,,,,nj,39.3673,-75.0293
+nashville,12800,2011.0,gmc,yukon denali,excellent,8 cylinders,gas,164855.0,salvage,automatic,,4wd,full-size,SUV,silver,,tn,35.9656,-86.5048
+nashville,20000,2016.0,dodge,charger,excellent,,gas,33096.0,clean,automatic,2C3CDXJG3GH348178,4wd,,sedan,black,,tn,36.2923,-86.7333
+nashville,29899,2016.0,infiniti,q50,,,gas,38841.0,clean,automatic,JN1FV7AR6GM450890,4wd,,sedan,blue,,tn,36.1557,-86.7906
+omaha / council bluffs,11499,2017.0,chevrolet,equinox,like new,4 cylinders,gas,54772.0,clean,automatic,2GNFLEEK0H6223769,4wd,mid-size,SUV,grey,,ia,41.1497,-95.9099
+south jersey,8500,2005.0,infiniti,qx56,excellent,8 cylinders,gas,177000.0,rebuilt,automatic,5N3AA08C25N807195,4wd,full-size,SUV,black,,nj,40.1547,-74.9904
+south jersey,4500,1999.0,ford,f250,,8 cylinders,diesel,,clean,automatic,,,,,,,nj,39.8067,-75.0358
+south jersey,16500,1997.0,ford,f-350 crewcab xlt,excellent,8 cylinders,diesel,190000.0,clean,automatic,,4wd,full-size,pickup,black,,nj,39.7647,-75.5069
+south jersey,7400,2014.0,nissan,maxima sv,excellent,6 cylinders,gas,101000.0,rebuilt,automatic,1N4AA5AP3EC485787,fwd,mid-size,sedan,red,,nj,39.4655,-74.9653
+greensboro,4490,2006.0,lexus,rx 400h,good,6 cylinders,gas,244000.0,clean,automatic,,4wd,mid-size,SUV,silver,,nc,36.0425,-80.2609
+greensboro,27900,2018.0,chevrolet,silverado 1500 crew,good,8 cylinders,gas,25352.0,clean,automatic,3GCUCRER0JG275014,,,pickup,white,,nc,36.07,-79.82
+greensboro,23700,2015.0,toyota,tacoma double cab,good,,gas,27202.0,clean,other,5TFJX4GN5FX047288,,,pickup,,,nc,36.07,-79.82
+greensboro,26200,2016.0,chevrolet,colorado extended cab,good,6 cylinders,gas,17585.0,clean,other,1GCHTDE37G1224925,4wd,,pickup,brown,,nc,36.07,-79.82
+greensboro,13500,2009.0,mercedes-benz,benz s550,excellent,8 cylinders,gas,12600.0,clean,automatic,,rwd,full-size,sedan,black,,nc,36.0777,-79.9086
+greensboro,7495,2012.0,honda,accord exl,,,gas,155456.0,clean,automatic,1HGCP2F87CA223086,,,,,,nc,35.7904,-78.7717
+greensboro,0,2013.0,tesla,model s,,,electric,65751.0,clean,automatic,,rwd,,sedan,black,,nc,,
+south jersey,6900,2016.0,chevrolet,cruze premier,like new,4 cylinders,gas,53000.0,rebuilt,automatic,1G1BG5SM2G7244499,fwd,mid-size,sedan,red,,nj,39.4655,-74.9653
+greensboro,10790,2014.0,nissan,maxima s,,,gas,62531.0,clean,automatic,1N4AA5AP7EC493259,,,,,,nc,36.0513,-79.3991
+greensboro,6390,2009.0,subaru,forester 2.5x,,,gas,122623.0,clean,automatic,JF2SH61609H791413,4wd,,,,,nc,36.0513,-79.3991
+greensboro,4250,1997.0,ford,thunderbird lx,good,8 cylinders,gas,,clean,automatic,,,,sedan,red,,nc,36.4262,-80.5278
+south jersey,0,2009.0,ford,flex,,,gas,,clean,automatic,,,,,,,nj,40.0535,-74.8932
+greensboro,6600,2014.0,harley-davidson,davidson forty-eight,,,gas,20000.0,clean,,1HD1LC313EC434631,,,other,black,,nc,36.2768,-80.3395
+greensboro,3450,2006.0,nissan,altima,good,4 cylinders,gas,229031.0,clean,automatic,,fwd,mid-size,sedan,,,nc,36.1165,-80.0831
+greensboro,2400,1999.0,dodge,durango,good,8 cylinders,gas,190.0,clean,automatic,,4wd,full-size,SUV,blue,,nc,35.806999999999995,-79.8223
+greensboro,23200,2019.0,chevrolet,camaro lt convertible,good,6 cylinders,gas,35292.0,clean,other,1G1FB3DS4K0109994,rwd,,other,red,,nc,36.07,-79.82
+greensboro,21600,2016.0,cadillac,ats 2.0l turbo luxury,good,,gas,50850.0,clean,other,1G6AH1RX4G0172032,,,coupe,black,,nc,36.07,-79.82
+denver,11995,2017.0,nissan,rogue,like new,4 cylinders,gas,85978.0,clean,automatic,JN8AT2MT1HW148666,4wd,full-size,SUV,silver,,co,39.7312,-104.913
+nashville,34900,2013.0,mercedes-benz,benze sprinter 2500,excellent,6 cylinders,diesel,23893.0,clean,automatic,WDZPE7CC9D5767661,rwd,,van,black,,tn,30.9533,-95.9091
+greensboro,20900,2017.0,fiat,124 spider lusso,good,,gas,5705.0,clean,other,JC1NFAEK9H0120019,rwd,,other,,,nc,36.07,-79.82
+greensboro,17900,2014.0,,Scion FR-S Coupe 2D,good,,gas,27686.0,clean,other,JF1ZNAA11E9706070,rwd,,coupe,black,,nc,36.07,-79.82
+greensboro,16400,2012.0,mazda,mx-5 miata grand touring,good,,gas,55291.0,clean,other,JM1NC2PF7C0225846,rwd,,other,blue,,nc,36.07,-79.82
+greensboro,13900,2008.0,mercedes-benz,s-class,,,gas,130600.0,clean,automatic,WDDNG86XX8A198991,,full-size,sedan,silver,,nc,35.0515,-80.6214
+greensboro,0,2017.0,chevrolet,camaro,,6 cylinders,gas,56267.0,clean,manual,,rwd,,coupe,white,,nc,,
+greensboro,0,2014.0,ram,1500,,,gas,,clean,automatic,3C6JR6DTXEG131769,,,,,,nc,36.0579,-79.4046
+richmond,6000,2012.0,honda,civic,good,4 cylinders,gas,,clean,automatic,,fwd,,sedan,blue,,va,37.2471,-77.4606
+rockford,3800,2012.0,nissan,versa sl hatchback,good,4 cylinders,gas,100750.0,clean,automatic,,fwd,compact,hatchback,black,,il,42.4217,-88.9943
+greensboro,0,2015.0,ford,explorer,,,gas,,clean,automatic,1FM5K7F83FGB82052,,,,,,nc,36.0579,-79.4046
+greensboro,0,2018.0,toyota,rav4,,,gas,,clean,automatic,2T3WFREV1JW413852,,,,,,nc,36.0579,-79.4046
+greensboro,5100,2008.0,honda,cr-v,excellent,4 cylinders,gas,188000.0,clean,automatic,,4wd,,SUV,red,,nc,36.0717,-79.9102
+greensboro,0,2012.0,volkswagen,eos,,,gas,,clean,automatic,WVWBW7AH3CV018889,,,,,,nc,35.983000000000004,-80.0095
+greensboro,15999,2012.0,dodge,challenger,,,gas,,clean,manual,2C3CDYBT6CH130456,,,,,,nc,35.9427,-80.0347
+greensboro,0,2018.0,chevrolet,malibu,,,gas,,clean,automatic,1G1ZB5ST7JF114929,,,,,,nc,36.4787,-79.7381
+greensboro,0,2016.0,ford,f-150,,,gas,,clean,automatic,1FTEX1C81GFB20602,,,,,,nc,36.4787,-79.7381
+greensboro,30900,2015.0,chevrolet,tahoe,,,gas,86000.0,clean,automatic,1GNSKBKC2FR152105,4wd,,SUV,,,nc,36.2768,-80.3395
+rockford,3000,2004.0,toyota,camry,good,4 cylinders,gas,,clean,automatic,,,,,,,il,42.2396,-89.0299
+south jersey,5200,2008.0,honda,civic,,4 cylinders,gas,129000.0,clean,automatic,,,,,,,nj,39.8162,-75.0499
+greensboro,0,2017.0,honda,accord sedan,,,gas,,clean,automatic,1HGCR2F32HA193940,,,,,,nc,35.9827,-80.0117
+greensboro,0,2018.0,dodge,grand caravan,,,gas,,clean,automatic,2C4RDGCG9JR253385,,,,,,nc,36.3298,-79.6475
+greensboro,0,2004.0,honda,pilot,,,gas,193777.0,clean,automatic,2HKYF18594H565640,,,SUV,silver,,nc,35.9961,-80.0329
+greensboro,0,2017.0,hyundai,accent,,,gas,,clean,automatic,KMHCT5AE0HU336212,,,,,,nc,36.0608,-79.875
+syracuse,9995,2012.0,acura,tl,,,gas,92272.0,clean,automatic,19UUA8F20CA007052,,,sedan,white,,ny,40.6787,-73.7484
+greensboro,0,2017.0,ford,escape,,,gas,,clean,automatic,1FMCU0GD5HUC58637,,,,,,nc,36.0608,-79.875
+greensboro,0,2019.0,,Biz On Wheels,excellent,,gas,0.0,clean,automatic,1F66F5KY2G0A08512,,,,,,nc,35.2404,-80.9017
+greensboro,0,2019.0,,Biz On Wheels,excellent,,gas,0.0,clean,automatic,1R9R1BF28JC828012,,,,,,nc,35.2404,-80.9017
+greensboro,4500,2004.0,jeep,grand cherokee,good,6 cylinders,gas,168821.0,clean,automatic,1J4GW48S94C128584,4wd,full-size,SUV,grey,,nc,35.9344,-80.0079
+syracuse,9995,2010.0,acura,mdx,,,gas,133580.0,clean,automatic,2HNYD2H63AH516890,,,SUV,black,,ny,40.6787,-73.7484
+south jersey,2400,1997.0,honda,cr-v,excellent,4 cylinders,gas,159.0,clean,automatic,,,,,,,nj,39.908,-75.0849
+south jersey,3250,2010.0,ford,focus ses sedan 4d,excellent,,gas,124000.0,clean,automatic,,,,sedan,black,,nj,39.8805,-74.9706
+greensboro,2400,2001.0,toyota,camry,good,4 cylinders,gas,277564.0,clean,automatic,2T1CG22P2C1426004,fwd,sub-compact,coupe,yellow,,nc,35.9344,-80.0079
+greensboro,0,2017.0,ford,explorer,,,gas,,clean,automatic,1FM5K7D84HGE18617,,,,,,nc,36.1728,-80.1686
+syracuse,25000,2016.0,ram,2500,,,gas,,rebuilt,automatic,,,,,,,ny,42.9719,-78.8769
+greensboro,229,2018.0,nissan,sentra,,,gas,,clean,automatic,3N1AB7AP5JY341035,,,,,,nc,36.1728,-80.1686
+greensboro,239,2017.0,ford,escape,,,gas,,clean,automatic,1FMCU0F77HUA32661,,,,,,nc,36.1728,-80.1686
+greensboro,189,2011.0,ford,f150,,,gas,,clean,automatic,1FTMF1CM6BKD18586,,,,,,nc,36.1728,-80.1686
+greensboro,4499,2005.0,buick,lesabre,good,6 cylinders,gas,176623.0,clean,automatic,1G4HR54K55U273139,fwd,full-size,sedan,green,,nc,35.9344,-80.0079
+greensboro,37000,2017.0,gmc,sierra 1500 crew cab slt,good,8 cylinders,gas,25053.0,clean,automatic,3GTU2NEC9HG206176,4wd,,pickup,grey,,nc,36.07,-79.82
+greensboro,33900,2018.0,ford,f250 super duty crew cab xl,good,8 cylinders,gas,40847.0,clean,automatic,1FT7W2B6XJEB83275,4wd,,pickup,white,,nc,36.07,-79.82
+greensboro,14900,1981.0,pontiac,firebird,excellent,6 cylinders,gas,114000.0,clean,automatic,1G2AS87A4BL143552,,,coupe,blue,,nc,36.1029,-79.5067
+greensboro,6900,2014.0,dodge,grand caravan,good,6 cylinders,gas,134931.0,clean,automatic,2C4RDGCG2ER179264,fwd,mid-size,mini-van,,,nc,36.071999999999996,-79.8846
+nashville,0,2014.0,ford,f-150 xlt,excellent,6 cylinders,gas,60000.0,rebuilt,automatic,,4wd,full-size,truck,custom,,tn,36.1036,-86.7418
+greensboro,0,2014.0,,Freightliner Cascadia,,,diesel,,clean,automatic,,,,,,,nc,36.0753,-79.9394
+greensboro,2500,2009.0,chevrolet,express 3500 cargo van,fair,8 cylinders,gas,300000.0,clean,automatic,1GCHG39C691119594,rwd,,van,white,,nc,36.0036,-80.0036
+greensboro,17000,2015.0,chevrolet,express 3500 passenger,like new,8 cylinders,gas,94000.0,clean,automatic,1GAZG1FF7F1110818,rwd,full-size,van,white,,nc,36.0346,-79.7908
+greensboro,6200,2008.0,bmw,335i,excellent,6 cylinders,gas,,clean,automatic,,rwd,,sedan,,,nc,35.9734,-80.0107
+south jersey,1299,2011.0,kia,rio,,4 cylinders,gas,239457.0,,automatic,KNADH4A38B6737227,fwd,,sedan,silver,,nj,40.083,-74.168
+south jersey,6999,2001.0,ram,1500,,8 cylinders,gas,69357.0,,automatic,3B7HC13Y11G733009,rwd,,,,,nj,40.083,-74.168
+south jersey,299,2006.0,toyota,camry solara convertible,excellent,6 cylinders,gas,178534.0,clean,automatic,,fwd,,convertible,red,,nj,40.068000000000005,-74.8454
+greensboro,4700,2005.0,chevrolet,colorado z85,excellent,6 cylinders,gas,209000.0,clean,automatic,1GCCS136458110054,rwd,mid-size,truck,blue,,nc,36.0346,-79.7906
+richmond,0,2014.0,nissan,leaf,,,other,12478.0,clean,automatic,1N4AZ0CP1EC332298,fwd,,hatchback,silver,,va,38.5114,-77.3689
+greensboro,22900,2012.0,chevrolet,silverado,,,gas,133000.0,clean,automatic,1GC1KYEG5CF181035,4wd,,pickup,,,nc,36.2768,-80.3395
+greensboro,10750,2012.0,toyota,camry,,,gas,,clean,automatic,,,,,,,nc,36.144,-80.2376
+greensboro,0,2013.0,bmw,335,,6 cylinders,gas,86583.0,clean,automatic,,rwd,,convertible,grey,,nc,,
+denver,25000,1949.0,,1949 willy delivery,,8 cylinders,gas,,clean,automatic,,rwd,,,,,co,35.2493,-106.682
+syracuse,16800,2018.0,dodge,challenger sxt,excellent,6 cylinders,gas,38981.0,clean,automatic,2C3CDZAG3JH236368,rwd,mid-size,coupe,grey,,ny,42.1013,-75.9268
+syracuse,5995,2007.0,jeep,compass limited,excellent,4 cylinders,gas,85000.0,clean,automatic,1J8FF57W27D241022,4wd,full-size,SUV,black,,ny,42.0854,-76.0561
+syracuse,6995,2005.0,cadillac,cts,excellent,6 cylinders,gas,55000.0,clean,automatic,1G6DP567950142078,rwd,full-size,sedan,brown,,ny,42.0854,-76.0561
+richmond,6000,2006.0,,international 4300,fair,6 cylinders,diesel,,clean,automatic,,fwd,,truck,white,,va,37.4373,-77.4788
+richmond,21999,2012.0,,peterbilt 386,good,6 cylinders,diesel,594000.0,clean,manual,,rwd,,truck,red,,va,37.4373,-77.4788
+syracuse,5000,2009.0,gmc,sierra,fair,6 cylinders,gas,125000.0,clean,automatic,,4wd,full-size,truck,,,ny,43.0354,-76.1282
+richmond,0,2017.0,dodge,grand caravan sxt,,,gas,27461.0,clean,automatic,2C4RDGCG7HR605440,,,,,,va,35.8673,-78.5381
+syracuse,9995,2011.0,cadillac,cts,excellent,6 cylinders,gas,101000.0,clean,automatic,1G6DG5EY3B0142700,4wd,full-size,sedan,silver,,ny,42.0854,-76.0561
+greensboro,18999,2009.0,bmw,x6,,,gas,76700.0,clean,automatic,5UXFG83539LZ92530,,,SUV,,,nc,35.0515,-80.6214
+greensboro,13750,2015.0,hyundai,sonata hybrid ltd,,,hybrid,,clean,automatic,,,,,,,nc,36.144,-80.2376
+greensboro,11200,2015.0,dodge,charger,excellent,6 cylinders,gas,90302.0,rebuilt,automatic,2C3CDXFG6FH748775,4wd,mid-size,sedan,black,,nc,36.0777,-79.9086
+richmond,6200,2006.0,honda,civic,,,gas,90253.0,clean,automatic,1HGFA16866L097692,,sub-compact,sedan,white,,va,38.5077,-77.3712
+richmond,3750,1999.0,lincoln,navigator 4wd luxury,,,gas,,clean,automatic,,,,,,,va,37.3429,-77.4156
+twin tiers NY/PA,7800,2016.0,kia,soul,excellent,4 cylinders,gas,,clean,automatic,,,compact,hatchback,black,,ny,41.4232,-78.5591
+twin tiers NY/PA,7900,2009.0,ford,f-350,good,8 cylinders,gas,,clean,automatic,,4wd,,,black,,ny,42.0172,-76.5333
+greensboro,7500,2010.0,chevrolet,traverse,,,gas,127000.0,clean,automatic,,,,,,,nc,36.4935,-79.7648
+greensboro,12400,2015.0,hyundai,veloster coupe 3d,good,,gas,67345.0,clean,automatic,KMHTC6AD0FU224830,fwd,,coupe,orange,,nc,36.07,-79.82
+greensboro,23900,2011.0,audi,s5 quattro premium plus,good,8 cylinders,gas,24978.0,clean,automatic,WAUCVAFR8BA044185,,,coupe,black,,nc,36.07,-79.82
+greensboro,24700,2019.0,chevrolet,camaro lt convertible,good,6 cylinders,gas,16759.0,clean,other,1G1FB3DS6K0136596,rwd,,other,silver,,nc,36.07,-79.82
+greensboro,6500,2012.0,kia,soul,,,gas,,clean,automatic,,,,,,,nc,36.4935,-79.7648
+nashville,8995,2010.0,volkswagen,touareg,,6 cylinders,diesel,105516.0,clean,automatic,WVGFK7A93AD001076,4wd,,SUV,white,,tn,36.2185,-86.3389
+south jersey,1900,2006.0,nissan,xterra,good,6 cylinders,gas,278000.0,clean,automatic,,4wd,,SUV,black,,nj,39.4129,-74.3797
+greensboro,7900,2008.0,gmc,yukon,,,gas,201000.0,clean,automatic,,,,,,,nc,36.4935,-79.7648
+south jersey,0,2013.0,kia,optima,,,gas,,clean,automatic,,,,,,,nj,39.9186,-75.1078
+st cloud,29990,2018.0,nissan,titan,,,gas,15000.0,clean,automatic,1N6AA1E5XJN509221,,,pickup,blue,,mn,46.45,-95.1247
+greensboro,2500,2005.0,ford,focus,,,gas,,clean,manual,,,,,,,nc,36.4935,-79.7648
+greensboro,500,2009.0,,BUY HERE PAY HERE,like new,,gas,,clean,automatic,O,,,,,,nc,36.0036,-80.0036
+greensboro,4900,2012.0,dodge,avenger,,,gas,109000.0,clean,automatic,,,,,,,nc,36.0218,-78.9478
+greensboro,8200,2008.0,gmc,yukon denali awd,excellent,8 cylinders,gas,199000.0,clean,automatic,1GKFK63838J143320,4wd,full-size,SUV,,,nc,36.0344,-79.7908
+greensboro,3995,2012.0,nissan,altima,,,gas,178000.0,clean,automatic,,,,,,,nc,36.0218,-78.9478
+greensboro,22900,2014.0,chevrolet,camaro,,,gas,49000.0,clean,automatic,2G1FK1EJ4E9202857,,compact,coupe,blue,,nc,36.2768,-80.3395
+greensboro,12500,2008.0,toyota,4runner,good,6 cylinders,gas,141098.0,clean,automatic,JTEZU14R38K019812,rwd,mid-size,SUV,grey,,nc,36.071999999999996,-79.8846
+rockford,5700,2008.0,gmc,sierra,,,gas,,clean,automatic,,,,,,,il,42.2922,-89.1161
+rockford,5400,2002.0,chevrolet,silverado,,,gas,,clean,automatic,,,,,,,il,42.2922,-89.1161
+greensboro,15000,1991.0,dodge,stealth twin turbo,excellent,6 cylinders,gas,80082.0,clean,manual,,,,,,,nc,36.0967,-79.4298
+south jersey,3995,2011.0,mazda,cx-7,,4 cylinders,gas,178250.0,clean,automatic,,fwd,mid-size,SUV,silver,,nj,40.1977,-74.2538
+south jersey,999,2016.0,honda,civic lx-p,excellent,4 cylinders,gas,74420.0,clean,automatic,2HGFC4B03GH302461,,,coupe,,,nj,40.2331,-74.7642
+greensboro,7850,2009.0,ford,e350 van,excellent,8 cylinders,gas,107763.0,clean,automatic,1FBNE31LX9DA79723,rwd,full-size,van,white,,nc,35.8845,-80.0521
+greensboro,4300,2005.0,lexus,es 330,good,6 cylinders,gas,188927.0,clean,automatic,JTHBA30G855057396,fwd,mid-size,sedan,silver,,nc,35.8845,-80.0521
+denver,4900,2011.0,chevrolet,cruze lt,good,,gas,111500.0,rebuilt,automatic,,,,,,,co,39.8983,-104.87200000000001
+twin tiers NY/PA,9500,2014.0,ford,focus,excellent,4 cylinders,diesel,46000.0,clean,automatic,,fwd,,sedan,silver,,ny,42.0172,-76.5333
+nashville,8995,2010.0,toyota,venza,,6 cylinders,gas,102775.0,clean,automatic,4T3ZK3BB3AU023352,fwd,,wagon,silver,,tn,36.2185,-86.3389
+rockford,5300,2001.0,gmc,sierra 1500,,,gas,,clean,automatic,,,,,,,il,42.2922,-89.1161
+greensboro,3200,2006.0,honda,civic,excellent,4 cylinders,gas,255390.0,clean,automatic,1HGFA16596L137821,fwd,mid-size,sedan,blue,,nc,35.8844,-80.0518
+greensboro,2000,1999.0,infiniti,,excellent,4 cylinders,gas,268765.0,clean,automatic,JNKCP11A0XT013473,fwd,mid-size,sedan,,,nc,35.8945,-80.0603
+south jersey,22500,1951.0,ford,f-1 pick up truck,excellent,8 cylinders,gas,,clean,manual,,4wd,full-size,pickup,blue,,nj,39.9683,-74.9533
+greensboro,6200,2006.0,ford,f-150,excellent,6 cylinders,gas,69698.0,clean,automatic,1FTRF12206NB35839,rwd,full-size,truck,custom,,nc,35.8845,-80.0521
+st cloud,3990,2006.0,buick,lacrosse,,,gas,175000.0,clean,automatic,2G4WE587661162279,,,,white,,mn,46.45,-95.1247
+rockford,3800,2012.0,ford,focus,good,4 cylinders,gas,130323.0,clean,automatic,,fwd,sub-compact,sedan,black,,il,42.2634,-89.0293
+greensboro,3300,2011.0,kia,soul,good,4 cylinders,gas,188963.0,clean,manual,KNDJT2A15B7736232,fwd,compact,SUV,black,,nc,35.8845,-80.0521
+greensboro,5500,2004.0,gmc,yukon,excellent,8 cylinders,gas,146363.0,clean,automatic,1GKEK13Z74J140910,4wd,full-size,SUV,,,nc,35.8844,-80.0519
+greensboro,3700,2004.0,gmc,yukon,excellent,8 cylinders,gas,267993.0,clean,automatic,1GKEK13Z24R282308,4wd,full-size,SUV,,,nc,35.8845,-80.0519
+greensboro,10400,2012.0,chevrolet,colorado,excellent,5 cylinders,gas,111871.0,clean,automatic,1gchtcfe0c8115573,4wd,mid-size,truck,red,,nc,35.8845,-80.0519
+greensboro,11600,2015.0,dodge,charger pursuit,excellent,8 cylinders,gas,106489.0,clean,automatic,2C3CDXKT9FH903273,,full-size,sedan,black,,nc,35.8844,-80.0519
+nashville,5495,2010.0,toyota,prius,,4 cylinders,hybrid,168606.0,clean,automatic,JTDKN3DU7A0110666,fwd,,sedan,grey,,tn,36.2185,-86.3389
+greensboro,7200,2005.0,toyota,sequoia sr5,like new,8 cylinders,gas,175000.0,clean,automatic,,,full-size,SUV,,,nc,35.9359,-79.9395
+greensboro,9200,2013.0,ford,e-350,good,8 cylinders,gas,214563.0,clean,automatic,1FDEE3FL5CDB33954,rwd,full-size,other,white,,nc,35.8845,-80.0521
+greensboro,16300,2016.0,jeep,cherokee limited sport,good,,gas,71501.0,clean,other,1C4PJLDBXGW307112,,,other,black,,nc,36.07,-79.82
+greensboro,15600,2015.0,chevrolet,equinox lt sport,good,,gas,41078.0,clean,other,2GNALBEK6F6321193,fwd,,other,,,nc,36.07,-79.82
+south jersey,7473,2003.0,ram,1500 laramie,excellent,8 cylinders,gas,135189.0,clean,automatic,,4wd,mid-size,pickup,grey,,nj,39.6999,-74.8944
+south jersey,2200,2001.0,chevrolet,malibu,,,gas,,clean,automatic,,,,,,,nj,40.464,-74.2742
+greensboro,11250,2015.0,dodge,charger pursuit,excellent,8 cylinders,gas,104832.0,clean,automatic,2C3CDXKT1FH903251,4wd,full-size,sedan,silver,,nc,35.8844,-80.0518
+greensboro,29800,2015.0,gmc,sierra 1500 crew cab slt,good,8 cylinders,gas,62084.0,clean,automatic,3GTP1VEJ9FG507719,,,pickup,brown,,nc,36.07,-79.82
+greensboro,21400,2015.0,toyota,tundra double cab sr5,good,8 cylinders,gas,94807.0,clean,automatic,5TFRM5F18FX090782,,,pickup,,,nc,36.07,-79.82
+greensboro,0,2015.0,ford,mustang,,8 cylinders,gas,20690.0,clean,manual,,rwd,,coupe,white,,nc,,
+south jersey,5200,2007.0,toyota,prius,,4 cylinders,hybrid,133628.0,clean,automatic,,fwd,compact,sedan,black,,nj,40.1977,-74.2538
+greensboro,0,2008.0,acura,tl,,,gas,124212.0,clean,automatic,19UUA66228A049511,,,sedan,,,nc,35.9961,-80.0329
+greensboro,6400,2003.0,toyota,sequoia limited,excellent,8 cylinders,gas,161123.0,salvage,automatic,,4wd,full-size,SUV,black,,nc,35.9359,-79.9395
+south jersey,6995,2010.0,ford,flex limited awd,excellent,6 cylinders,gas,157744.0,clean,automatic,2FMHK6DC3ABA29346,4wd,full-size,SUV,black,,nj,39.7054,-75.108
+greensboro,14500,2012.0,mercedes-benz,benz e350,like new,6 cylinders,gas,75065.0,clean,automatic,,,,,,,nc,35.8955,-80.5632
+greensboro,12500,2011.0,chevrolet,camaro ss,,,gas,,salvage,automatic,,,,,,,nc,36.0318,-79.4889
+greensboro,3500,1997.0,toyota,avalon,good,6 cylinders,gas,213702.0,clean,automatic,4T1BF12B2VU181402,fwd,full-size,sedan,,,nc,36.071999999999996,-79.8846
+greensboro,2500,1992.0,ram,3500,,,gas,,clean,automatic,,,,,,,nc,36.5,-79.759
+greensboro,4995,2004.0,gmc,yukon slt,,,gas,230701.0,clean,automatic,1GKEC13Z74J262664,,,,,,nc,35.7904,-78.7717
+greensboro,13999,2011.0,bmw,750xi,,,gas,88400.0,clean,automatic,WBAKC6C52BC394299,,,sedan,blue,,nc,35.0515,-80.6214
+greensboro,19500,2017.0,honda,civic si coupe 2d,good,,gas,40405.0,clean,other,2HGFC3A54HH752404,fwd,,coupe,,,nc,36.07,-79.82
+greensboro,19000,2015.0,ford,mustang ecoboost coupe 2d,good,,gas,44539.0,clean,automatic,1FA6P8TH0F5335914,rwd,,coupe,blue,,nc,36.07,-79.82
+greensboro,20100,2012.0,audi,s5 quattro coupe 2d,good,8 cylinders,gas,79875.0,clean,automatic,WAUCVAFR1CA002572,,,coupe,blue,,nc,36.07,-79.82
+south jersey,9000,1970.0,ford,mustang,excellent,8 cylinders,gas,,clean,automatic,,,,coupe,grey,,nj,39.7993,-75.1536
+south jersey,7995,2013.0,nissan,rogue,,4 cylinders,gas,86875.0,clean,automatic,,4wd,compact,SUV,blue,,nj,40.1977,-74.2538
+greensboro,30300,2017.0,ford,f150 supercrew cab xlt,good,6 cylinders,gas,30339.0,clean,automatic,1FTEW1EP8HFA39914,4wd,,pickup,brown,,nc,36.07,-79.82
+greensboro,19700,2017.0,chevrolet,camaro lt coupe 2d,good,6 cylinders,gas,35807.0,clean,other,1G1FA1RS2H0212999,rwd,,coupe,black,,nc,36.07,-79.82
+greensboro,14400,2012.0,honda,accord ex-l coupe 2d,good,6 cylinders,gas,52199.0,clean,other,1HGCS2B89CA007101,fwd,,coupe,red,,nc,36.07,-79.82
+greensboro,21400,2017.0,chevrolet,camaro lt coupe 2d,good,,gas,18254.0,clean,other,1G1FA1RX0H0180601,rwd,,coupe,red,,nc,36.07,-79.82
+richmond,0,2014.0,chevrolet,silverado 1500,excellent,6 cylinders,gas,143559.0,clean,automatic,1GCNCPEH0EZ135809,rwd,mid-size,truck,,,va,37.6237,-77.3074
+greensboro,2800,2003.0,volkswagen,golf,good,4 cylinders,gas,129000.0,clean,automatic,9BWGK61J334038621,fwd,full-size,hatchback,blue,,nc,36.0344,-79.7908
+greensboro,16700,2017.0,chevrolet,equinox ls sport,good,,gas,17673.0,clean,automatic,2GNFLEEK9H6162891,,,other,black,,nc,36.07,-79.82
+greensboro,14998,2016.0,buick,verano 4dr sdn sport touring,,4 cylinders,,,clean,automatic,1G4PW5SKXG4132450,fwd,,sedan,custom,,nc,36.0,-80.0
+greensboro,13987,2017.0,kia,sportage,,4 cylinders,gas,62789.0,clean,automatic,KNDPM3AC5H7113832,fwd,,SUV,red,,nc,35.8353,-80.2427
+greensboro,21900,2017.0,buick,envision,,4 cylinders,gas,28450.0,clean,automatic,LRBFXCSAXHD009160,4wd,,SUV,brown,,nc,35.8353,-80.2427
+greensboro,46700,2016.0,chevrolet,silverado 2500hd,,8 cylinders,diesel,47896.0,clean,automatic,1GC1KWE89GF248531,4wd,,truck,red,,nc,35.8353,-80.2427
+greensboro,22487,2015.0,ram,2500,,8 cylinders,gas,121802.0,clean,automatic,3C6UR5DJXFG670416,4wd,,truck,white,,nc,35.8353,-80.2427
+greensboro,15987,2013.0,ford,explorer,,6 cylinders,gas,64011.0,clean,automatic,1FM5K7D86DGC43104,fwd,,SUV,red,,nc,35.8353,-80.2427
+greensboro,4200,2006.0,jeep,grand cherokee,excellent,6 cylinders,gas,215000.0,clean,automatic,1J4GR48K86C277840,4wd,full-size,SUV,white,,nc,36.0344,-79.7908
+richmond,0,2015.0,ford,explorer,,,gas,70250.0,clean,automatic,1FM5K8D85FGB55055,,,SUV,,,va,38.2571,-77.4957
+greensboro,4500,2002.0,jeep,grand cherokee,,,gas,,clean,automatic,,,,,,,nc,35.6196,-80.0959
+greensboro,12700,2012.0,jeep,patriot latitude sport,good,,gas,73602.0,clean,automatic,1C4NJRFB3CD683647,4wd,,other,,,nc,36.07,-79.82
+greensboro,23400,2015.0,gmc,sierra 1500 double cab sle,good,8 cylinders,gas,65007.0,clean,other,1GTR1UEC1FZ251967,,,pickup,black,,nc,36.07,-79.82
+greensboro,23800,2016.0,ford,f150 supercrew cab xlt,good,6 cylinders,gas,56689.0,clean,other,1FTEW1CP9GFA58084,,,pickup,black,,nc,36.07,-79.82
+richmond,2800,2008.0,dodge,caravan,,,gas,,clean,automatic,,,,,,,va,37.5505,-77.4907
+greensboro,3600,2006.0,mazda,3,,,gas,,clean,manual,,,,,,,nc,35.6196,-80.0959
+greensboro,7877,2008.0,nissan,armada,excellent,8 cylinders,gas,177225.0,clean,automatic,,rwd,,,white,,nc,36.022,-79.7821
+greensboro,4877,2012.0,chevrolet,cruze,excellent,4 cylinders,gas,163261.0,clean,automatic,,fwd,,sedan,white,,nc,36.022,-79.7821
+greensboro,20900,2014.0,ford,f150 super cab xl pickup 4d,good,6 cylinders,gas,46438.0,clean,other,1FTFX1ET2EFB10907,4wd,,pickup,silver,,nc,36.07,-79.82
+nashville,19000,1973.0,chevrolet,corvette,,,gas,,clean,automatic,,,,,,,tn,36.9687,-84.0419
+south jersey,2800,2005.0,toyota,camry se,good,4 cylinders,gas,198000.0,clean,automatic,4T1BE32K35U505777,fwd,mid-size,sedan,grey,,nj,39.8097,-75.2082
+greensboro,13800,2014.0,ford,escape se sport utility 4d,good,,gas,54536.0,clean,automatic,1FMCU0GX7EUC91791,,,other,silver,,nc,36.07,-79.82
+nashville,2995,1997.0,chevrolet,g-1500,good,8 cylinders,gas,,clean,automatic,,rwd,,,blue,,tn,36.076,-87.3995
+greensboro,22100,2011.0,audi,s5 quattro premium plus,good,8 cylinders,gas,49254.0,clean,automatic,WAUCVAFR9BA083500,,,coupe,white,,nc,36.07,-79.82
+richmond,3500,2004.0,ford,e250 van,good,8 cylinders,gas,167000.0,clean,automatic,,rwd,full-size,van,white,,va,37.4638,-77.398
+greensboro,26400,2017.0,mercedes-benz,c-class c 300,good,,gas,34798.0,clean,automatic,WDDWJ4JB5HF410001,rwd,,coupe,black,,nc,36.07,-79.82
+greensboro,25895,2015.0,chevrolet,silverado 1500 lt,,,gas,,clean,automatic,,,,,,,nc,35.9127,-80.0597
+south jersey,10500,1970.0,chevrolet,,,,gas,,clean,automatic,,,,,,,nj,40.518,-74.8453
+richmond,6995,2007.0,jeep,grand cherokee laredo,,,gas,169000.0,clean,automatic,,,,,,,va,38.1574,-79.0651
+south jersey,26900,2009.0,ford,f-550 chassis,,8 cylinders,diesel,47677.0,clean,other,1FDAF57R49EA61089,4wd,,other,red,,nj,,
+south jersey,2175,2001.0,saturn,sl2,like new,4 cylinders,gas,73000.0,clean,automatic,,fwd,compact,sedan,green,,nj,39.4066,-74.6729
+south jersey,0,2012.0,kia,,,,gas,,clean,automatic,,,,,,,nj,40.068000000000005,-74.8454
+greensboro,20900,2017.0,mazda,cx-5 touring sport utility,good,,gas,24827.0,clean,automatic,JM3KFACL4H0196577,fwd,,other,silver,,nc,36.07,-79.82
+south jersey,13850,2017.0,honda,accord sport,excellent,4 cylinders,gas,7000.0,rebuilt,automatic,1HGCR2F57HA124906,fwd,mid-size,sedan,silver,,nj,39.9218,-75.2876
+greensboro,12400,2015.0,hyundai,veloster coupe 3d,good,,gas,67345.0,clean,automatic,KMHTC6AD0FU224830,fwd,,coupe,orange,,nc,36.07,-79.82
+greensboro,16700,2014.0,chevrolet,camaro ls coupe 2d,good,6 cylinders,gas,68327.0,clean,other,2G1FE1E30E9201276,rwd,,coupe,black,,nc,36.07,-79.82
+greensboro,17600,2017.0,volkswagen,tiguan 2.0t sport suv,good,,gas,46139.0,clean,automatic,WVGTV7AX9HK041158,fwd,,other,white,,nc,36.07,-79.82
+greensboro,13900,2016.0,hyundai,sonata sedan 4d,good,,gas,41765.0,clean,automatic,5NPE24AF7GH346294,fwd,,sedan,white,,nc,36.07,-79.82
+greensboro,12400,2018.0,nissan,sentra s sedan 4d,good,,gas,41168.0,clean,other,3N1AB7AP5JY314014,fwd,,sedan,silver,,nc,36.07,-79.82
+greensboro,17000,2018.0,toyota,corolla le sedan 4d,good,,gas,5341.0,clean,other,2T1BURHE6JC080266,fwd,,sedan,grey,,nc,36.07,-79.82
+greensboro,12400,2018.0,nissan,sentra s sedan 4d,good,,gas,41168.0,clean,other,3N1AB7AP5JY314014,fwd,,sedan,silver,,nc,36.07,-79.82
+greensboro,8400,2013.0,,smart fortwo Passion Hatchback,good,,gas,59885.0,clean,automatic,WMEEJ3BA2DK616529,rwd,,coupe,silver,,nc,36.07,-79.82
+greensboro,13900,2016.0,hyundai,sonata sedan 4d,good,,gas,41765.0,clean,automatic,5NPE24AF7GH346294,fwd,,sedan,white,,nc,36.07,-79.82
+greensboro,17700,2014.0,chevrolet,impala ltz sedan 4d,good,6 cylinders,gas,79123.0,clean,other,2G1155S33E9122710,fwd,,sedan,,,nc,36.07,-79.82
+greensboro,16300,2017.0,nissan,altima 2.5 sv sedan 4d,good,,gas,17473.0,clean,automatic,1N4AL3AP5HC128291,fwd,,sedan,silver,,nc,36.07,-79.82
+greensboro,22300,2017.0,infiniti,q50 3.0t premium sedan,good,6 cylinders,gas,37320.0,clean,automatic,JN1EV7AP0HM734432,rwd,,sedan,,,nc,36.07,-79.82
+greensboro,14000,2016.0,chrysler,200 limited sedan 4d,good,,gas,12020.0,clean,other,1C3CCCAB7GN145771,fwd,,sedan,white,,nc,36.07,-79.82
+greensboro,15500,2017.0,nissan,rogue sv sport utility 4d,good,,gas,55142.0,clean,automatic,5N1AT2MV1HC853297,,,hatchback,silver,,nc,36.07,-79.82
+greensboro,20900,2019.0,nissan,rogue sv sport utility 4d,good,,gas,16913.0,clean,automatic,KNMAT2MVXKP524621,,,hatchback,black,,nc,36.07,-79.82
+greensboro,13700,2016.0,ford,focus se hatchback 4d,good,,other,25134.0,clean,automatic,1FADP3K24GL241233,fwd,,hatchback,blue,,nc,36.07,-79.82
+lincoln,16988,2004.0,chevrolet,silverado k2500hd,,,gas,,clean,automatic,1GCHK23244F249166,,,,,,ne,41.1345,-96.2458
+greensboro,14700,2017.0,chevrolet,cruze lt sedan 4d,good,,gas,21345.0,clean,other,1G1BE5SM4H7111492,fwd,,sedan,black,,nc,36.07,-79.82
+greensboro,12700,2011.0,toyota,prius two hatchback 4d,good,,gas,69095.0,clean,automatic,JTDKN3DU7B1405679,fwd,,hatchback,silver,,nc,36.07,-79.82
+greensboro,14000,2018.0,toyota,yaris ia sedan 4d,good,,gas,26102.0,clean,other,3MYDLBYV2JY312138,fwd,,sedan,blue,,nc,36.07,-79.82
+greensboro,13800,2014.0,mazda,mazda3 i sport hatchback,good,,gas,48264.0,clean,other,JM1BM1K70E1132822,fwd,,hatchback,black,,nc,36.07,-79.82
+greensboro,14000,2017.0,volkswagen,jetta 1.4t s sedan 4d,good,,gas,30409.0,clean,automatic,3VW2B7AJ1HM387229,fwd,,sedan,blue,,nc,36.07,-79.82
+greensboro,19500,2016.0,infiniti,qx50 sport utility 4d,good,6 cylinders,gas,44137.0,clean,automatic,JN1BJ0RP4GM232080,rwd,,hatchback,white,,nc,36.07,-79.82
+greensboro,14900,2017.0,hyundai,sonata se sedan 4d,good,,gas,20426.0,clean,automatic,5NPE24AF3HH466370,fwd,,sedan,blue,,nc,36.07,-79.82
+greensboro,13900,2016.0,chevrolet,trax lt sport utility,good,,gas,41160.0,clean,other,3GNCJPSB8GL278764,,,hatchback,silver,,nc,36.07,-79.82
+greensboro,17000,2017.0,chevrolet,volt lt hatchback 4d,good,,gas,35864.0,clean,other,1G1RA6S55HU171758,fwd,,hatchback,black,,nc,36.07,-79.82
+greensboro,17000,2018.0,toyota,corolla le sedan 4d,good,,gas,5341.0,clean,other,2T1BURHE6JC080266,fwd,,sedan,grey,,nc,36.07,-79.82
+nashville,14890,2007.0,chevrolet,silverado,,,gas,88639.0,clean,automatic,1GCHC29K77E529873,fwd,,pickup,,,tn,36.2259,-86.541
+greensboro,22900,2015.0,audi,a5 premium coupe 2d,good,,gas,24924.0,clean,automatic,WAUCFAFR2FA049482,,,coupe,black,,nc,36.07,-79.82
+richmond,25995,2007.0,ram,3500,,,diesel,130000.0,clean,manual,,,,,,,va,38.1574,-79.0651
+greensboro,23000,2013.0,chevrolet,avalanche black,good,8 cylinders,gas,82260.0,clean,other,3GNMCFE03DG126916,,,pickup,black,,nc,36.07,-79.82
+greensboro,12900,2016.0,volkswagen,tiguan 2.0t s sport,good,,gas,62384.0,clean,automatic,WVGAV7AX7GW601919,fwd,,SUV,white,,nc,36.07,-79.82
+greensboro,14400,2014.0,honda,accord lx-s coupe 2d,good,,gas,65399.0,clean,automatic,1HGCT1B38EA009632,fwd,,coupe,black,,nc,36.07,-79.82
