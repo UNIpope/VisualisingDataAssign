@@ -16,21 +16,22 @@ what prompts a regional driver to sell their vehicle online.
 A discovery into what makes US and German car drivers want to sell
 their beloved vehicles using online marketplace data!
 
-# More Info
-1. Get data set:
-  https://www.kaggle.com/orgesleka/used-cars-database
-  https://www.kaggle.com/austinreese/craigslist-carstrucks-data
-  http://download.geonames.org/export/zip/DE.zip
-  
+## More Info
+1. Get data set: 
+  - https://www.kaggle.com/orgesleka/used-cars-database
+  - https://www.kaggle.com/austinreese/craigslist-carstrucks-data
+  - http://download.geonames.org/export/zip/DE.zip  
   *python dask used to trim datasets out of memory*
+  
 2. Merge:
   - Read in and cleanup datasets (ie. German to english)
   - Merge datasheets
   - write to new file
+  
 3. Exploring:
   - Data summarys
   - Plot Data
   - filter by countries (US / Ger)
+  
 4. Form Big Idea based of explorations.
 5. Use Visualisations to prove big Idea
-  
